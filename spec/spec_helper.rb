@@ -1,0 +1,7 @@
+require '../classes/item'
+require '../classes/music_album'
+require '../classes/genre'
+require '../operations/music_genre_op'
+require '../classes/book'
+require '../classes/label'
+require '../operations/books_operation'
