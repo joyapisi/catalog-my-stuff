@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Ruby-capstone</b></h3>
+  <h3><b>Catalog of my stuff</b></h3>
 
 </div>
 
@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖-Decode-a-Morse-code-message](#-Ruby-capstone-)
+- [📖-Decode-a-Morse-code-message](#-about-project-)
   - [:hammer\_and\_wrench: Built With ](#hammer_and_wrench-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,11 +31,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ruby-capstone <a name="about-project"></a>
+# 📖 Catalog-My-Stuff <a name="about-project"></a>
 
 This is a console app that will help you to keep a record of different types of things you own: books, music albums, movies, and games.
 
-**Ruby-capstone** is a Ruby-based project
+**Catalog-My-Stuff** is a Ruby-based project
 
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 - Ruby
